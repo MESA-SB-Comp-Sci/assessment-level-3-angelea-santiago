@@ -5,3 +5,46 @@
 }
 
 /* write all your rules below */
+
+#heading-style{
+    border: 1vw solid red;
+    background-color: pink;
+    margin: 4vw;
+    width: 80vw;
+    height: 10vh;
+    padding: 2px;
+    text-align: left;
+}
+
+.hero-style{
+    background-color: rgb(121, 255, 244);
+    width: 100vw;
+    height: 40vh;
+    padding-top: 8%;
+    padding-left: 6%;
+}
+
+.main-style{
+    background-color: yellow;
+    border: 13px solid pink;
+    margin: 2vw;
+    padding-bottom: 8vw;
+    width: 50vw;
+    height: 10vh;
+}
+
+p{
+    color:rgb(0, 134, 179);
+}
+
+.p-color2{
+    color: green;
+}
+
+.p-color3{
+    color: purple;
+}
+
+.p-color4{
+    color: rgb(255, 69, 255);
+}
